@@ -38,7 +38,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 <code><img height="20" src="https://img.icons8.com/color/2x/git.png"></code>
 
-**Flutter Projects:**  
+**Flutter Mobile Projects:**  
 <a href="https://drive.google.com/file/d/16l5vxzTtSbEXlWhFkrGAXz20C1Yfqd8l/view">
   <img align="left" alt="ipab-project-for-nic-demo" width="100px"
      height="70px"  src="https://www.intepat.com/wp-content/uploads/2017/06/logo-570x298.jpg" />
@@ -50,6 +50,25 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://play.google.com/store/apps/details?id=com.tnmsc_f">
   <img align="left" alt="ipab-project-for-nic-demo" width="100px"
      height="70px"  src="https://play-lh.googleusercontent.com/r4tEyEKjnvVQK9DAtrHJJFkQj3ayMsOJkeXAvMmKGliAABdTcxji188WoH_WuYE-xw=s180-rw" />
+</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+**Flutter Web Projects:**  
+<br>
+<a href="https://jayamuruganj.github.io/web.sscsr/#/">
+  <img align="left" alt="ipab-project-for-nic-demo" width="80px"
+     height="70px"  src="https://ssc.nic.in/Content/library/assets/images/ssc-logo.png" />
+</a>
+<a href="https://rtionline.tn.gov.in/sscsr/flutter/web/#/">
+  <img align="left" alt="ipab-project-for-nic-demo" width="150px"
+     height="70px"  src="https://www.nic.in/wp-content/themes/NICTheme/assets/images/logo.png" />
+</a>
+<a href="https://jayamuruganj.github.io/web.samayalkurippu/#/">
+  <img align="left" alt="ipab-project-for-nic-demo" width="70px"
+     height="70px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZBu5dUBCpMLERvElCy9tCH5Llu0Sg2cucrPJPvyooH5HBU5y1nUkQj_u2Vq1Z-V9bnw&usqp=CAU" />
 </a>
 
 
