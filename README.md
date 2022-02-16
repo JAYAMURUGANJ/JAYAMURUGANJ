@@ -24,6 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://img.icons8.com/fluency/2x/laravel.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/bootstrap.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/javascript.png"></code>
+<code><img height="20" src="https://img.icons8.com/ios/2x/jquery.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/python.png"></code>
 <br>
 <code><img height="20" src="https://img.icons8.com/color/2x/postgreesql.png"></code>
@@ -32,5 +33,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 <code><img height="20" src="https://img.icons8.com/color/2x/git.png"></code>
 
-
+[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://drive.google.com/file/d/16l5vxzTtSbEXlWhFkrGAXz20C1Yfqd8l/view)
 
