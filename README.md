@@ -3,12 +3,12 @@
   <img align="left" alt="Jayamurugan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-hi, i'm [Jayamurugan J], a passionate self-taught flutter developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Jayamurugan J, a passionate self-taught flutter developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-<img align="right" alt="GIF" src="https://github.com/JAYAMURUGANJ/JAYAMURUGANJ/blob/main/mygitgif.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/JAYAMURUGANJ/JAYAMURUGANJ/blob/main/mygitgif.gif?raw=true"/>
   
 - 💼 any freelance work? do reach, [email](mailto:jamu03031996@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
