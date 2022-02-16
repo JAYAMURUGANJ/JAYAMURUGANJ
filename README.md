@@ -33,5 +33,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 <code><img height="20" src="https://img.icons8.com/color/2x/git.png"></code>
 
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/{% "eBzTCbGnlWo" %}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
