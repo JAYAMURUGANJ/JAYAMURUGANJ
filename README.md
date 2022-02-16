@@ -24,7 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://img.icons8.com/fluency/2x/laravel.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/bootstrap.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/javascript.png"></code>
-<code><img height="20" src="https://img.icons8.com/ios/2x/jquery.png"></code>
+<code><img height="20" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/python.png"></code>
 <br>
 <code><img height="20" src="https://img.icons8.com/color/2x/postgreesql.png"></code>
