@@ -32,6 +32,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://img.icons8.com/color/2x/mysql-logo.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/2x/firebase.png"></code>
 <br>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="20" src="https://developer.android.com/studio/images/studio-icon.svg"></code>
+<code><img height="20" src="https://ouch-cdn2.icons8.com/rCFIZb-KUbiYYvH7c_ij0Hh9BFQDbbqSGOvUjrQZSCs/rs:fit:512:504/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNTY0/LzVmNDI5ZTc3LWUw/ZjctNDk1MS04NWNh/LTI3ZjE1MzFkMTlm/NS5zdmc.png"></code>
+<br>
 <code><img height="20" src="https://img.icons8.com/color/2x/git.png"></code>
 
 **Flutter Projects:**  
