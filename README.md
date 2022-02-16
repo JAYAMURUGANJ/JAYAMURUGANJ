@@ -3,7 +3,7 @@
   <img align="left" alt="Jayamurugan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://codeapprun.io/jayamurugan/widgets">
-  <img align="left" alt="Jayamurugan's CodeAppRun" width="22px" src="https://codeapprun.io/images/logo.png" />
+  <img align="left" alt="Jayamurugan's CodeAppRun" src="https://codeapprun.io/images/logo.png" />
 </a>
 <br />
 hi, i'm Jayamurugan J, a passionate self-taught flutter developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
