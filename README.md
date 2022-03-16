@@ -63,7 +63,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="left" alt="ipab-project-for-nic-demo" width="80px"
      height="70px"  src="https://ssc.nic.in/Content/library/assets/images/ssc-logo.png" />
 </a>
-
 <a href="https://rtionline.tn.gov.in/sscsr/flutter/web/#/">
   <img align="left" alt="ipab-project-for-nic-demo" width="70px"
      height="70px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZBu5dUBCpMLERvElCy9tCH5Llu0Sg2cucrPJPvyooH5HBU5y1nUkQj_u2Vq1Z-V9bnw&usqp=CAU" />
