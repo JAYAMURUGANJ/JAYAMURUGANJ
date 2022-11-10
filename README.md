@@ -53,7 +53,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="left" alt="ipab-project-for-nic-demo" width="100px"
      height="70px"  src="https://play-lh.googleusercontent.com/r4tEyEKjnvVQK9DAtrHJJFkQj3ayMsOJkeXAvMmKGliAABdTcxji188WoH_WuYE-xw=s180-rw" />
 </a>
-<a href="[https://drive.google.com/file/d/1yeXJKfkxkVeNRqpKwQzAZaog2AlraNY4/view?usp=sharing](https://drive.google.com/file/d/1LRUigq_GYob9kE08WtmCFfpPUKjs6jz2/view?usp=share_link)">
+<a href="https://drive.google.com/file/d/1LRUigq_GYob9kE08WtmCFfpPUKjs6jz2/view?usp=share_link">
   <img align="left" alt="ipab-project-for-nic-demo" width="100px"
      height="70px"  src="https://hrce.tn.gov.in/images/thrce_logo_2F1112.png" />
 </a>
