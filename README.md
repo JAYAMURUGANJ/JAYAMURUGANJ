@@ -14,6 +14,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/JAYAMURUGANJ/JAYAMURUGANJ/blob/main/mygitgif.gif?raw=true"/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayamuruganj&show_icons=true&locale=en&layout=compact" alt="jayamuruganj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayamuruganj&show_icons=true&locale=en" alt="jayamuruganj" /></p>
+
 **languages and tools:**  
 
 <code><img height="20" src="https://img.icons8.com/fluency/2x/flutter.png"></code>
