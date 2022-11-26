@@ -1,4 +1,4 @@
-<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://raw.githubusercontent.com/IndianOpenSourceFoundation/iosf-website/f38cba6cdba11cdcb90641ac192d1a36d67b6cd8/public/img/iosf-logo.svg" width="20%"></a></p>
+<p align="center"><a href="https://iosf.in/" target="_blank"><img src="[https://raw.githubusercontent.com/IndianOpenSourceFoundation/iosf-website/f38cba6cdba11cdcb90641ac192d1a36d67b6cd8/public/img/iosf-logo.svg](https://lh3.googleusercontent.com/a-/AOh14GjSDcbh8k7ha16KO4fy51ar5E8ia57RBEzYqZ4x=s288-p-rw-no)" width="20%"></a></p>
 
 <h1 align="center">Indian Open Source Foundation</h1>
 <h2 align="center">Promoting open source, one step at a time 😀 👨‍💻</h2>
