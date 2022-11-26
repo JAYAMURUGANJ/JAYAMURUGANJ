@@ -112,11 +112,11 @@
          height="70px"  src="https://play-lh.googleusercontent.com/6DXX1aFJPegHhvGS2IVFazpdPKJS7p8jwSsgSce0vneY4BRd5LS8ATg7NBZ687yegWf6=s180-rw" />
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.tnmsc_f">
-      <img align="left" alt="ipab-project-for-nic-demo" width="120px"
+      <img align="left" alt="ipab-project-for-nic-demo" width="110px"
          height="70px"  src="https://play-lh.googleusercontent.com/r4tEyEKjnvVQK9DAtrHJJFkQj3ayMsOJkeXAvMmKGliAABdTcxji188WoH_WuYE-xw=s180-rw" />
     </a>
     <a href="https://drive.google.com/file/d/1yeXJKfkxkVeNRqpKwQzAZaog2AlraNY4/view">
-      <img align="left" alt="ipab-project-for-nic-demo" width="120px"
+      <img align="left" alt="ipab-project-for-nic-demo" width="130px"
          height="70px"  src="https://hrce.tn.gov.in/images/thrce_logo_2F1112.png" />
     </a>
 
