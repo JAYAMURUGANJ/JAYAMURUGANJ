@@ -2,15 +2,11 @@
 <h1 align="center">Hi 👋, I'm JAYAMURUGAN J</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=jayamuruganj&label=Profile%20views&color=0e75b6&style=flat" alt="jayamuruganj" /> </p>
 <h5>      A passionate self-taught flutter developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br>
       i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h5>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/jayamuruganj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayamurugan j" height="30" width="40" /></a></h3>
 <p align="left">
-<a href="https://linkedin.com/in/jayamurugan j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayamurugan j" height="30" width="40" /></a>
-</p>
-
-
 - 💼 any freelance work? do reach, [email](mailto:jamu03031996@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-
+</p>
 <img align="right" alt="GIF" src="https://github.com/JAYAMURUGANJ/JAYAMURUGANJ/blob/main/mygitgif.gif?raw=true"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayamuruganj&show_icons=true&locale=en&layout=compact" alt="jayamuruganj" /></p>
