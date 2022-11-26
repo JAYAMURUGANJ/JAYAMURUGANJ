@@ -1,7 +1,7 @@
 <p align="center"><img alt="Jamu" src="https://lh3.googleusercontent.com/a-/AOh14GjSDcbh8k7ha16KO4fy51ar5E8ia57RBEzYqZ4x=s288-p-rw-no" width="20%" /></p>
 
-<h1 align="center">Indian Open Source Foundation</h1>
-<h2 align="center">Promoting open source, one step at a time 😀 👨‍💻</h2>
+<h1 align="center">Hi 👋, I'm JAYAMURUGAN J</h1>
+<h2 align="center">Senior Mobile Developer👨‍💻, NIC, Chennai</h2>
 
 > Join us as a contributor and associate with us in our journey for making Open Source Contribution lit <span role="img" aria-label="fire emoji">🔥</span> and super powerful for the budding and already existing community.
 
