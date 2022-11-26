@@ -6,4 +6,4 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayamuruganj&show_icons=true&locale=en&layout=compact" alt="jayamuruganj" width="35%" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayamuruganj&show_icons=true&locale=en" alt="jayamuruganj" width="43%" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayamuruganj&show_icons=true&locale=en" alt="jayamuruganj" width="42%" /></p>
