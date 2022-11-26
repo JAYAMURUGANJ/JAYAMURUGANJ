@@ -7,6 +7,10 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayamuruganj&show_icons=true&locale=en&layout=compact" alt="jayamuruganj" width="35%" /></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayamuruganj&show_icons=true&locale=en" alt="jayamuruganj" width="42%" /></p>
+<!-- BLOG-POST-LIST:START -->
+- 💬 ask me about anything, i am happy to help
+- 💼 any freelance work? do reach, [email](mailto:jamu03031996@gmail.com) :)
+<!-- BLOG-POST-LIST:END -->
 <img align="right" alt="GIF" src="https://github.com/JAYAMURUGANJ/JAYAMURUGANJ/blob/main/mygitgif.gif?raw=true"/>
 <h3 align="left">Languages and Tools:</h3>
     <p align="left"> 
