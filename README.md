@@ -30,10 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="left" alt="ipab-project-for-nic-demo" width="100px"
      height="70px"  src="https://play-lh.googleusercontent.com/6DXX1aFJPegHhvGS2IVFazpdPKJS7p8jwSsgSce0vneY4BRd5LS8ATg7NBZ687yegWf6=s180-rw" />
 </a>
-<br>
-<br>
-<br>
-<br>
+
 <a href="https://play.google.com/store/apps/details?id=com.tnmsc_f">
   <img align="left" alt="ipab-project-for-nic-demo" width="100px"
      height="70px"  src="https://play-lh.googleusercontent.com/r4tEyEKjnvVQK9DAtrHJJFkQj3ayMsOJkeXAvMmKGliAABdTcxji188WoH_WuYE-xw=s180-rw" />
@@ -42,9 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="left" alt="ipab-project-for-nic-demo" width="100px"
      height="70px"  src="https://hrce.tn.gov.in/images/thrce_logo_2F1112.png" />
 </a>
-<br>
-<br>
-<br>
+
 
 **Flutter Web Projects:**  
 <br>
