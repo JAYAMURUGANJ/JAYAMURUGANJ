@@ -7,7 +7,7 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayamuruganj&show_icons=true&locale=en&layout=compact" alt="jayamuruganj" width="35%" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayamuruganj&show_icons=true&locale=en" alt="jayamuruganj" width="42%" /></p>
-<img align="center" alt="GIF" src="https://github.com/JAYAMURUGANJ/JAYAMURUGANJ/blob/main/mygitgif.gif?raw=true"/>
+<img align="right" alt="GIF" src="https://github.com/JAYAMURUGANJ/JAYAMURUGANJ/blob/main/mygitgif.gif?raw=true"/>
 <h3 align="left">Languages and Tools:</h3>
     <p align="left"> 
         <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
