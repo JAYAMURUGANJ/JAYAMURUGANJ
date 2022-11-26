@@ -102,30 +102,34 @@
             <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
         </a> 
     </p>
-    <h3 align="left">Flutter Mobile Projects:</h3>
-    <a href="https://drive.google.com/file/d/16l5vxzTtSbEXlWhFkrGAXz20C1Yfqd8l/view">
-      <img align="left" alt="ipab-project-for-nic-demo" width="100px"
-         height="70px"  src="https://www.intepat.com/wp-content/uploads/2017/06/logo-570x298.jpg" />
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=com.pecs">
-      <img align="left" alt="ipab-project-for-nic-demo" width="100px"
-         height="70px"  src="https://play-lh.googleusercontent.com/6DXX1aFJPegHhvGS2IVFazpdPKJS7p8jwSsgSce0vneY4BRd5LS8ATg7NBZ687yegWf6=s180-rw" />
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=com.tnmsc_f">
-      <img align="left" alt="ipab-project-for-nic-demo" width="110px"
-         height="70px"  src="https://play-lh.googleusercontent.com/r4tEyEKjnvVQK9DAtrHJJFkQj3ayMsOJkeXAvMmKGliAABdTcxji188WoH_WuYE-xw=s180-rw" />
-    </a>
-    <a href="https://drive.google.com/file/d/1yeXJKfkxkVeNRqpKwQzAZaog2AlraNY4/view">
-      <img align="left" alt="ipab-project-for-nic-demo" width="130px"
-         height="70px"  src="https://hrce.tn.gov.in/images/thrce_logo_2F1112.png" />
-    </a>
-    <h3 align="left">Flutter Web Projects:</h3>
-    <a href="https://jayamuruganj.github.io/web.sscsr/#/">
-      <img align="left" alt="ipab-project-for-nic-demo" width="80px"
-         height="70px"  src="https://ssc.nic.in/Content/library/assets/images/ssc-logo.png" />
-    </a>
-    <a href="https://rtionline.tn.gov.in/sscsr/flutter/web/#/">
-      <img align="left" alt="ipab-project-for-nic-demo" width="70px"
-         height="70px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZBu5dUBCpMLERvElCy9tCH5Llu0Sg2cucrPJPvyooH5HBU5y1nUkQj_u2Vq1Z-V9bnw&usqp=CAU" />
-    </a>
+    <p align="left">
+        <h3 align="left">Flutter Mobile Projects:</h3>
+        <a href="https://drive.google.com/file/d/16l5vxzTtSbEXlWhFkrGAXz20C1Yfqd8l/view">
+          <img align="left" alt="ipab-project-for-nic-demo" width="100px"
+             height="70px"  src="https://www.intepat.com/wp-content/uploads/2017/06/logo-570x298.jpg" />
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.pecs">
+          <img align="left" alt="ipab-project-for-nic-demo" width="100px"
+             height="70px"  src="https://play-lh.googleusercontent.com/6DXX1aFJPegHhvGS2IVFazpdPKJS7p8jwSsgSce0vneY4BRd5LS8ATg7NBZ687yegWf6=s180-rw" />
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.tnmsc_f">
+          <img align="left" alt="ipab-project-for-nic-demo" width="110px"
+             height="70px"  src="https://play-lh.googleusercontent.com/r4tEyEKjnvVQK9DAtrHJJFkQj3ayMsOJkeXAvMmKGliAABdTcxji188WoH_WuYE-xw=s180-rw" />
+        </a>
+        <a href="https://drive.google.com/file/d/1yeXJKfkxkVeNRqpKwQzAZaog2AlraNY4/view">
+          <img align="left" alt="ipab-project-for-nic-demo" width="130px"
+             height="70px"  src="https://hrce.tn.gov.in/images/thrce_logo_2F1112.png" />
+        </a>
+    </p>
+    <p align="left">
+        <h3 align="left">Flutter Web Projects:</h3>
+        <a href="https://jayamuruganj.github.io/web.sscsr/#/">
+          <img align="left" alt="ipab-project-for-nic-demo" width="80px"
+             height="70px"  src="https://ssc.nic.in/Content/library/assets/images/ssc-logo.png" />
+        </a>
+        <a href="https://rtionline.tn.gov.in/sscsr/flutter/web/#/">
+          <img align="left" alt="ipab-project-for-nic-demo" width="70px"
+             height="70px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZBu5dUBCpMLERvElCy9tCH5Llu0Sg2cucrPJPvyooH5HBU5y1nUkQj_u2Vq1Z-V9bnw&usqp=CAU"              />
+        </a>
+    </p>
 
