@@ -1,4 +1,4 @@
-<p align="center"><img alt="Jamu" src="https://lh3.googleusercontent.com/a-/AOh14GjSDcbh8k7ha16KO4fy51ar5E8ia57RBEzYqZ4x=s288-p-rw-no" /></p>
+<p align="center"><img alt="Jamu" src="https://lh3.googleusercontent.com/a-/AOh14GjSDcbh8k7ha16KO4fy51ar5E8ia57RBEzYqZ4x=s288-p-rw-no" width="20%" /></p>
 
 <h1 align="center">Indian Open Source Foundation</h1>
 <h2 align="center">Promoting open source, one step at a time 😀 👨‍💻</h2>
