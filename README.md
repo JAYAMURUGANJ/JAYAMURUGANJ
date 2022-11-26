@@ -1,11 +1,7 @@
 <img align="left" alt="Jamu" src="https://lh3.googleusercontent.com/a-/AOh14GjSDcbh8k7ha16KO4fy51ar5E8ia57RBEzYqZ4x=s288-p-rw-no" />
-<h1 align="center">Hi 👋, I'm JAYAMURUGAN J</h1>
-<h5>A passionate self-taught flutter developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayamuruganj&label=Profile%20views&color=0e75b6&style=flat" alt="jayamuruganj" /> </p>
-
+<h1 align="center">Hi 👋, I'm JAYAMURUGAN J</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=jayamuruganj&label=Profile%20views&color=0e75b6&style=flat" alt="jayamuruganj" /> </p>
+<h5>      A passionate self-taught flutter developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br>
+      i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h5>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayamurugan j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayamurugan j" height="30" width="40" /></a>
