@@ -118,7 +118,11 @@
         </a>
         <a href="https://drive.google.com/file/d/1yeXJKfkxkVeNRqpKwQzAZaog2AlraNY4/view">
           <img align="left" alt="ipab-project-for-nic-demo" width="130px"
-             height="70px"  src="https://hrce.tn.gov.in/images/thrce_logo_2F1112.png" />
+             height="70px"  src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/applogo.png" />
+        </a>
+        <a href="https://drive.google.com/drive/u/0/my-drive">
+          <img align="left" alt="ipab-project-for-nic-demo" width="130px"
+             height="70px"  src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/qr_verifier.png" />
         </a>
     </p>
     <br>
