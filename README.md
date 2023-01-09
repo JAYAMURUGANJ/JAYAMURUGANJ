@@ -117,11 +117,11 @@
              height="70px"  src="https://play-lh.googleusercontent.com/r4tEyEKjnvVQK9DAtrHJJFkQj3ayMsOJkeXAvMmKGliAABdTcxji188WoH_WuYE-xw=s180-rw" />
         </a>
         <a href="https://drive.google.com/file/d/1yeXJKfkxkVeNRqpKwQzAZaog2AlraNY4/view">
-          <img align="left" alt="ipab-project-for-nic-demo" width="130px"
+          <img align="left" alt="ipab-project-for-nic-demo" width="150px"
              height="70px"  src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/applogo.png" />
         </a>
-        <a href="https://drive.google.com/drive/u/0/my-drive">
-          <img align="left" alt="ipab-project-for-nic-demo" width="130px"
+        <a href="https://drive.google.com/file/d/1Lpejfl6vzEkIfjrgHsc8oWforJXx1K-D/view?usp=sharing">
+          <img align="left" alt="ipab-project-for-nic-demo" width="150px"
              height="70px"  src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/qr_verifier.png" />
         </a>
     </p>
