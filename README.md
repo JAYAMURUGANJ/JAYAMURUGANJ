@@ -130,6 +130,10 @@
     <p align="left">
         <br>
         <h3 align="left">Flutter Web Projects:</h3>
+        <a href="https://jayamuruganj.github.io/web.samayalkurippu/#/">
+          <img align="left" alt="ipab-project-for-nic-demo" width="80px"
+             height="70px"  src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/ic_launcher.png" />
+        </a>
         <a href="https://jayamuruganj.github.io/web.sscsr/#/">
           <img align="left" alt="ipab-project-for-nic-demo" width="80px"
              height="70px"  src="https://ssc.nic.in/Content/library/assets/images/ssc-logo.png" />
