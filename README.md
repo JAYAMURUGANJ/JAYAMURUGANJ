@@ -124,6 +124,10 @@
           <img align="left" alt="ipab-project-for-nic-demo" width="110px"
              height="80px"  src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/qr_verifier.png" />
         </a>
+         <a href="https://drive.google.com/file/d/1Lpejfl6vzEkIfjrgHsc8oWforJXx1K-D/view?usp=sharing">
+          <img align="left" alt="ipab-project-for-nic-demo" width="110px"
+             height="80px"  src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/qr_verifier.png" />
+        </a>
     </p>
     <br>
     <br>
