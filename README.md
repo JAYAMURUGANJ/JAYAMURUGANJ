@@ -147,4 +147,14 @@
              height="70px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZBu5dUBCpMLERvElCy9tCH5Llu0Sg2cucrPJPvyooH5HBU5y1nUkQj_u2Vq1Z-V9bnw&usqp=CAU"              />
         </a>
     </p>
+    <br>
+    <br>
+    <p align="left">
+        <br>
+        <h3 align="left">Flutter Desktop Projects:</h3>
+        <a href="https://drive.google.com/file/d/1gR3I74OezttY2YZSe0zm_LrdEZeFoomm/view?usp=share_link">
+          <img align="left" alt="ipab-project-for-nic-demo" width="80px"
+             height="70px"  src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/ic_launcher.png" />
+        </a>
+    </p>
 
