@@ -1,5 +1,4 @@
 <p align="left"><a href="https://www.linkedin.com/in/jayamuruganj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue" width="8%"></a></p>
-<p align="center"><img alt="Jamu" src="https://lh3.googleusercontent.com/a-/AOh14GjSDcbh8k7ha16KO4fy51ar5E8ia57RBEzYqZ4x=s288-p-rw-no" width="20%" /></p>
 <h1 align="center">Hi 👋, I'm JAYAMURUGAN J</h1>
 <h2 align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>lutter Developer </h3>
 <h2 align="center">Senior Mobile Application Developer👨‍💻, NIC, Chennai</h3>
