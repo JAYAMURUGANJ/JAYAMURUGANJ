@@ -6,7 +6,7 @@
 > A passionate self-taught flutter developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. <br> I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <!-- BLOG-POST-LIST:START -->
-- 💬 ask me about anything, i am happy to help
+- 💬 ask me about Flutter related problems, i am happy to help
 - 💼 any freelance work? do reach, [email](mailto:jamu03031996@gmail.com) :)
 <!-- BLOG-POST-LIST:END -->
 
