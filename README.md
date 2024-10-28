@@ -52,42 +52,6 @@
     <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
     <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
-
----
-
-### 🌟 **Projects & Demos**
-<p align="center">Showcasing some of my best works:</p>
-
-#### 📱 **Mobile Apps**
-<a href="https://drive.google.com/file/d/16l5vxzTtSbEXlWhFkrGAXz20C1Yfqd8l/view">
-    <img src="https://www.intepat.com/wp-content/uploads/2017/06/logo-570x298.jpg" alt="App Demo 1" width="100px" height="70px">
-</a>
-<a href="https://drive.google.com/file/d/1yeXJKfkxkVeNRqpKwQzAZaog2AlraNY4/view">
-    <img src="https://5.imimg.com/data5/SELLER/Default/2022/5/ZU/ZP/FX/148005145/ezetap-pos-500x500.jpg" alt="Pos App for Temple Ticket Booking UI Version 1 demo" width="100px" height="70px">
-</a>
-<a href="https://drive.google.com/file/d/1gP1hmhY9C67v4l43Lgau_upiZE2Fydei/view">
-    <img src="https://5.imimg.com/data5/SELLER/Default/2022/5/ZU/ZP/FX/148005145/ezetap-pos-500x500.jpg" alt="Pos App for Temple Ticket Booking UI Version 2 demo" width="100px" height="70px">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.mslabs.thirukoil&hl=en-US">
-    <img src="https://play-lh.googleusercontent.com/RAyuuPQw2DdyUEW4UYGX8FEk4NcWF7KM0euCxaCPYn9pJxMEycZ3N9iFRdTHRD_5_V4=s48-rw" alt="Thirukkoil Mobile Version 1" width="100px" height="70px">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.mslabs.thirukoil&hl=en-US">
-    <img src="https://play-lh.googleusercontent.com/RAyuuPQw2DdyUEW4UYGX8FEk4NcWF7KM0euCxaCPYn9pJxMEycZ3N9iFRdTHRD_5_V4=s48-rw" alt="Thirukkoil Mobile Version 1" width="100px" height="70px">
-</a>
-
-#### 🌐 **Web Projects**
-<a href="https://linguamystica.org/">
-    <img src="https://linguamystica.org/images/logo.png" alt="Web Project 1" width="80px">
-</a>
-<a href="https://jayamuruganj.github.io/web.samayalkurippu/#/">
-    <img src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/ic_launcher.png" alt="Web Project 1" width="80px" height="70px">
-</a>
-<a href="https://jayamuruganj.github.io/web.sscsr/#/">
-    <img src="https://ssc.nic.in/Content/library/assets/images/ssc-logo.png" alt="Web Project 2" width="80px" height="70px">
-</a>
-
----
-
 ### 📣 **Let's Connect**
 <p align="center">
     If you’d like to discuss a project, reach out on [LinkedIn](https://www.linkedin.com/in/jayamuruganj/) or [GitHub](https://github.com/jayamuruganj) 🚀
