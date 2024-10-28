@@ -62,14 +62,23 @@
 <a href="https://drive.google.com/file/d/16l5vxzTtSbEXlWhFkrGAXz20C1Yfqd8l/view">
     <img src="https://www.intepat.com/wp-content/uploads/2017/06/logo-570x298.jpg" alt="App Demo 1" width="100px" height="70px">
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.pecs">
-    <img src="https://play-lh.googleusercontent.com/6DXX1aFJPegHhvGS2IVFazpdPKJS7p8jwSsgSce0vneY4BRd5LS8ATg7NBZ687yegWf6=s180-rw" alt="App Demo 2" width="100px" height="70px">
+<a href="https://drive.google.com/file/d/1yeXJKfkxkVeNRqpKwQzAZaog2AlraNY4/view">
+    <img src="https://5.imimg.com/data5/SELLER/Default/2022/5/ZU/ZP/FX/148005145/ezetap-pos-500x500.jpg" alt="Pos App for Temple Ticket Booking UI Version 1 demo" width="100px" height="70px">
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.tnmsc_f">
-    <img src="https://play-lh.googleusercontent.com/r4tEyEKjnvVQK9DAtrHJJFkQj3ayMsOJkeXAvMmKGliAABdTcxji188WoH_WuYE-xw=s180-rw" alt="App Demo 3" width="100px" height="70px">
+<a href="https://drive.google.com/file/d/1gP1hmhY9C67v4l43Lgau_upiZE2Fydei/view">
+    <img src="https://5.imimg.com/data5/SELLER/Default/2022/5/ZU/ZP/FX/148005145/ezetap-pos-500x500.jpg" alt="Pos App for Temple Ticket Booking UI Version 2 demo" width="100px" height="70px">
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.mslabs.thirukoil&hl=en-US">
+    <img src="https://play-lh.googleusercontent.com/RAyuuPQw2DdyUEW4UYGX8FEk4NcWF7KM0euCxaCPYn9pJxMEycZ3N9iFRdTHRD_5_V4=s48-rw" alt="Thirukkoil Mobile Version 1" width="100px" height="70px">
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.mslabs.thirukoil&hl=en-US">
+    <img src="https://play-lh.googleusercontent.com/RAyuuPQw2DdyUEW4UYGX8FEk4NcWF7KM0euCxaCPYn9pJxMEycZ3N9iFRdTHRD_5_V4=s48-rw" alt="Thirukkoil Mobile Version 1" width="100px" height="70px">
 </a>
 
 #### 🌐 **Web Projects**
+<a href="https://linguamystica.org/">
+    <img src="https://linguamystica.org/images/logo.png" alt="Web Project 1" width="80px">
+</a>
 <a href="https://jayamuruganj.github.io/web.samayalkurippu/#/">
     <img src="https://raw.githubusercontent.com/JAYAMURUGANJ/ProjectAssets/main/ic_launcher.png" alt="Web Project 1" width="80px" height="70px">
 </a>
